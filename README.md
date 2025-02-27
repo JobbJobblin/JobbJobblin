@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about software dewelopment, and I l
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning: Data Analysis with Python (https://www.freecodecamp.org/fcc428e2fd3-b12e-4522-9fb4-b9c44c2e7f9b)
+- 🌱 I’m currently learning: Data Analysis with Python. My [link to freecodecamp profile](https://www.freecodecamp.org/fcc428e2fd3-b12e-4522-9fb4-b9c44c2e7f9b).
 - 📫 How to reach me: Jobbjobblin@gmail.com or @SImonFry (telegram)
 - ⚡ Fun fact: I can cook 25 minutes rice in 24 minutes and 59 seconds
 

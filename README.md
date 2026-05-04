@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I'm passionate about software dewelopment, and I l
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** Python, PHP
-- **Frameworks & Libraries:** Aiogram 3.0, VK_api, PyQt6, Matplotlib, Pandas
+- **Programming Languages:** Python, Java (8-17), js
+- **Frameworks & Libraries:** Aiogram 3.0, VK_api, PyQt6, Matplotlib, Pandas, Numpy
 - **Tools & Platforms:** Git
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** PostgreSQL, ORACLE
 
 ## 📂 Featured Projects
 
